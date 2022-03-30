@@ -1,0 +1,9 @@
+{
+  "name": "PHB_FiveE",
+  "entrypoint": "com.github.mcd.addon.phbfivee.PHBFiveEAddon",
+  "scannedPackage": "com.github.mcd.addon.fivee",
+  "version": "1.0",
+  "authors": [
+    "Zak Shearman"
+  ]
+}
